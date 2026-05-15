@@ -47,11 +47,17 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
 
+<img width="2584" height="2034" alt="image" src="https://github.com/user-attachments/assets/5907b2a6-d504-468e-8923-dee2e8daca03" />
+
 ## C.Analysis of Results: (Write your own)
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f743dc86-6544-4099-9487-27cbfdca39ff" />
 
 (Include sample calculations/Display/plot/typical graph)
 
 ## D.Conclusions: (Write your Own)
+
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 
 ## Precautions:
 
