@@ -61,7 +61,11 @@ The experiment confirmed Gunn diode operation through its negative resistance re
 
 ## Precautions:
 
-• Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
+• Check the connections before switching on the kit.
+
+• Connections should be done properly. 
+
+• Observation should be taken properly.
 
 ## Result:
 
